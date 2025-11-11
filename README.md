@@ -48,21 +48,3 @@ This project combines:
 
 ---
 
-## 🧰 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/yourrepo.git
-
-# Install dependencies
-cd yourrepo
-npm install
-cd client
-npm install
-
-# Create .env file in root
-MONGO_URI=your_mongo_connection_string
-JWT_SECRET=your_secret_key
-
-# Run backend and frontend
-npm run dev
