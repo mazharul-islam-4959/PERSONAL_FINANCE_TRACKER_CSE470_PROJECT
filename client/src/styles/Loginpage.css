@@ -1,0 +1,48 @@
+.login-page {
+    background-image: linear-gradient(to right, #e4ecf0, #96a7bd, #7f96c2);
+    height: 100vh !important;
+    width: 100vw !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  .login-image h1 {
+    text-align: center;
+    font-weight: bold;
+    margin: 30px;
+    
+  }
+  
+  .login-form {
+    background-color: #a8bfe2b6;
+    margin-left: -15px;
+    padding: 30px;
+  }
+  
+  .login-form h1 {
+    text-align: center;
+    font-weight: bold;
+    margin: 30px;
+    color: #344265;
+  }
+  
+  .login-form .ant-form-item-label label {
+    color: #344265 !important;
+  }
+  .login-form button {
+    background-color: #344265;
+    color: white;
+    outline: none;
+  }
+  .login-form button:hover {
+    background-color: black;
+    color: white;
+  }
+  .login-form a {
+    color: #344265 !important;
+  }
+  
+  .login-form a:hover {
+    color: black !important;
+  }
